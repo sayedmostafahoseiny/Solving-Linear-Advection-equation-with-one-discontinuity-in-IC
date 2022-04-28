@@ -3,3 +3,4 @@ Solving Linear-Advection equation with one discontinuity in initial condition us
 The Advection equation is u_t + a*u_x = 0 and a=0.5 is wave speed
 Initial condition is u=1 for 0<=x<0.25 and u=0 for 0.25<=x<=1
 we solve this equation with one Drichlet B.C and above IC by Finite Differnce discretization
+codes are include one source file with name of Method and some functions which called in the source code 
